@@ -14,16 +14,16 @@
 <br></br>
 
 ## 🛠 &nbsp;Tech Stack
-<a href="https://linkedin.com/in/lara-lays-gomes" target="_blank">
+<a href="https://img.shields.io/badge/-JavaScipt-05122A?style=flat&logo=javascript" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JavaScipt-05122A?style=flat&logo=javascript"/>
 </a>
-<a href="https://linkedin.com/in/lara-lays-gomes" target="_blank">
+<a href="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5"/>
 </a>
-<a href="https://linkedin.com/in/lara-lays-gomes" target="_blank">
+<a href="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js"/>
 </a>
-<a href="https://linkedin.com/in/lara-lays-gomes" target="_blank">
+<a href="https://img.shields.io/badge/-MySLQ-05122A?style=flat&logo=mysql" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySLQ-05122A?style=flat&logo=mysql"/>
 </a>
 
@@ -32,6 +32,6 @@
 
 ## &nbsp;Contact
 
-<a href="https://linkedin.com/in/lara-lays-gomes" target="_blank">
+<a href="http://www.linkedin.com/in/lara-lays-gomes" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
