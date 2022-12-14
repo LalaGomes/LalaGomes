@@ -6,11 +6,11 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LalaGomes&show_icons=true&theme=midnight-purple" alt="Lara's stats" height="300" width="500"/>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LalaGomes&show_icons=true&theme=midnight-purple" alt="Lara's stats"/>
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalaGomes&layout=compact&theme=midnight-purple" alt="Lara's most languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalaGomes&layout=compact&theme=midnight-purple" alt="Lara's most languages" height="300" width="500"/>
+</p>
 <br></br>
 
 ## 🛠 &nbsp;Tech Stack
