@@ -1,37 +1,36 @@
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LalaGomes/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lara Gomes</h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lara Lays Gomes</h1>
 
-🌱 I’m currently learning FullStack-Web
+<!-- 
+## ⚙️ &nbsp;GitHub Analytics -->
+<section align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LalaGomes&show_icons=true&theme=midnight-purple" alt="Lara's stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalaGomes&layout=compact&theme=midnight-purple" alt="Lara's most languages" width="400"/>
+</section>
+<section style="display: inline_block">
+<br>
 
-<br><br>
+## 🛠 &nbsp;Tech Stacks
+  
+  <img align="left" alt="HTML"  height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="CSS" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Ana-C"  height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"/>
+  <br>
+  <br>
+  <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LalaGomes&show_icons=true&theme=midnight-purple" alt="Lara's stats" height="300" width="500"/>
+## &nbsp;About Me 😁:
+  
+- 📖 I’m currently learning FullStack-Web 
+- 📫 Feel free to <a href="http://www.linkedin.com/in/lara-lays-gomes">email</a> me or contact me on <a href="http://www.linkedin.com/in/lara-lays-gomes">LinkedIn</a>;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalaGomes&layout=compact&theme=midnight-purple" alt="Lara's most languages" height="300" width="500"/>
-</p>
-<br></br>
-
-## 🛠 &nbsp;Tech Stack
-<a href="https://img.shields.io/badge/-JavaScipt-05122A?style=flat&logo=javascript" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-JavaScipt-05122A?style=flat&logo=javascript"/>
-</a>
-<a href="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5"/>
-</a>
-<a href="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js"/>
-</a>
-<a href="https://img.shields.io/badge/-MySLQ-05122A?style=flat&logo=mysql" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MySLQ-05122A?style=flat&logo=mysql"/>
-</a>
-
-<br></br>
-
-
+<br>
+  
 ## &nbsp;Contact
 
-<a href="http://www.linkedin.com/in/lara-lays-gomes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+ <a href = "mailto:lara.lays.bh6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="http://www.linkedin.com/in/lara-lays-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<!--   
+  ![Snake animation](https://github.com/LalaGomes/LalaGomes/blob/output/github-contribution-grid-snake.svg)
+</section> -->
