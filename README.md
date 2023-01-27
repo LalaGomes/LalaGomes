@@ -9,7 +9,7 @@
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LalaGomes&show_icons=true&theme=midnight-purple" alt="Lara's stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalaGomes&layout=compact&theme=midnight-purple" alt="Lara's most languages"/>
 </section>
-<section style="display: inline_block">
+<!-- <section style="display: inline_block"> -->
 
  <div align="center"> 
  <a href = "mailto:lara.lays.bh6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
