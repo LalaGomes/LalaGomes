@@ -5,16 +5,27 @@
 </h3>
 <!-- 
 ## ⚙️ &nbsp;GitHub Analytics -->
-<section align="center">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LalaGomes&show_icons=true&theme=midnight-purple" alt="Lara's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalaGomes&layout=compact&theme=midnight-purple" alt="Lara's most languages"/>
-</section>
+<!-- 
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LalaGomes&show_icons=true&theme=midnight-purple" alt="Lara's stats"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalaGomes&layout=compact&theme=midnight-purple" alt="Lara's most languages"/>
+</div> -->
+
+
+<div align="center">
+  <a href="https://github.com/LalaGomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LalaGomes&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalaGomes&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+ 
+ 
+ 
 <!-- <section style="display: inline_block"> -->
 
- <div align="center"> 
- <a href = "mailto:lara.lays.bh6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="http://www.linkedin.com/in/lara-lays-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+<div align="center"> 
+  <a href = "mailto:lara.lays.bh6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="http://www.linkedin.com/in/lara-lays-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <br>
   
   
